@@ -1,6 +1,7 @@
 {
   "packages": {
     "iron-router": {},
-    "semantic-ui": {}
+    "semantic-ui": {},
+    "iron-router-auth": {}
   }
 }

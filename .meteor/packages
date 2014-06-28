@@ -9,3 +9,5 @@ insecure
 iron-router
 semantic-ui
 accounts-password
+iron-router-auth
+jquery
